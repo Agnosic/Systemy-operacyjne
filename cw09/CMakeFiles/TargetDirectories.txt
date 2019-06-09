@@ -1,0 +1,5 @@
+/home/jan/Desktop/IlczukJan/cw09/CMakeFiles/rebuild_cache.dir
+/home/jan/Desktop/IlczukJan/cw09/CMakeFiles/edit_cache.dir
+/home/jan/Desktop/IlczukJan/cw09/CMakeFiles/rollercoaster.dir
+/home/jan/Desktop/IlczukJan/cw09/CMakeFiles/helper.dir
+/home/jan/Desktop/IlczukJan/cw09/CMakeFiles/queue.dir

@@ -1,0 +1,11 @@
+Biblioteka ladowana dynamicznie ma taki sam czas wyszukiwania jak ladowana statycznie i wspoldzielnie
+
+
+make - aby zbudpwac
+make test - aby wygenerowac report2.txt
+
+przykadowe komendy:
+./main_st 1 -a "/etc/issue" 100000
+./main_st 10 -s "/usr/" "*" tmp.txt -d 2 
+./main_sh 10 -s "/usr/" "*" tmp.txt -d 2
+./main_dy 1 -a "/etc/issue" 100000

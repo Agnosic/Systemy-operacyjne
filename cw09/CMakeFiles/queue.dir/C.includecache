@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan/Desktop/IlczukJan/cw09/helper.h
+
+/home/jan/Desktop/IlczukJan/cw09/queue.c
+queue.h
+/home/jan/Desktop/IlczukJan/cw09/queue.h
+helper.h
+/home/jan/Desktop/IlczukJan/cw09/helper.h
+stdlib.h
+-
+
+/home/jan/Desktop/IlczukJan/cw09/queue.h
+pthread.h
+-
+semaphore.h
+-
+

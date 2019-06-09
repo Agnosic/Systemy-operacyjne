@@ -1,0 +1,2 @@
+ls -l | grep int | head -n 1 | wc -l
+cat interpreter.c 

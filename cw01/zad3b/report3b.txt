@@ -1,0 +1,819 @@
+-------Static Library----------------------------------------------
+Optimasation:  -O0
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.490000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.020000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.430000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.010000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.150000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.450000 s
+user:  	 0.160000 s 
+system:	 0.280000 s
+-------Shared Library----------------------------------------------
+Optimasation:  -O0
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.440000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.030000 s
+user:  	 0.000000 s 
+system:	 0.020000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.890000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.220000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.440000 s
+user:  	 0.090000 s 
+system:	 0.330000 s
+-------Dynamic Library----------------------------------------------
+Optimasation:  -O0
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.820000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.030000 s
+user:  	 0.000000 s 
+system:	 0.020000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.610000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.160000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.450000 s
+user:  	 0.120000 s 
+system:	 0.310000 s
+-------Static Library----------------------------------------------
+Optimasation:  -O3
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.480000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.020000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.990000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.140000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.450000 s
+user:  	 0.130000 s 
+system:	 0.300000 s
+-------Shared Library----------------------------------------------
+Optimasation:  -O3
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.430000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.020000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.890000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.220000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.440000 s
+user:  	 0.160000 s 
+system:	 0.270000 s
+-------Dynamic Library----------------------------------------------
+Optimasation:  -O3
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.450000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.010000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.900000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.180000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.450000 s
+user:  	 0.110000 s 
+system:	 0.330000 s
+-------Static Library----------------------------------------------
+Optimasation:  -Os
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.440000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.020000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.930000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.010000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.210000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.010000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.450000 s
+user:  	 0.140000 s 
+system:	 0.300000 s
+-------Shared Library----------------------------------------------
+Optimasation:  -Os
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.440000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.010000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.960000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.230000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.450000 s
+user:  	 0.150000 s 
+system:	 0.280000 s
+-------Dynamic Library----------------------------------------------
+Optimasation:  -Os
+size: 100000
+-------Big Search-------
+/
+
+Find timer
+real:  	 1.440000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.020000 s
+user:  	 0.000000 s 
+system:	 0.020000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Medium Search-------
+/usr/
+
+Find timer
+real:  	 0.910000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Small Search-------
+/usr/lib
+
+Find timer
+real:  	 0.140000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+-------Add and Delete-------
+add and delete: 100000
+
+Find timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Allocating time
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Remove timer
+real:  	 0.000000 s
+user:  	 0.000000 s 
+system:	 0.000000 s
+
+Alternately timer
+real:  	 0.460000 s
+user:  	 0.140000 s 
+system:	 0.320000 s

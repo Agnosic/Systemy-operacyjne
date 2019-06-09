@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan/Desktop/IlczukJan/cw09/helper.h
+
+/home/jan/Desktop/IlczukJan/cw09/queue.h
+pthread.h
+-
+semaphore.h
+-
+
+/home/jan/Desktop/IlczukJan/cw09/rollercoaster.c
+pthread.h
+-
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+helper.h
+/home/jan/Desktop/IlczukJan/cw09/helper.h
+queue.h
+/home/jan/Desktop/IlczukJan/cw09/queue.h
+time.h
+-
+

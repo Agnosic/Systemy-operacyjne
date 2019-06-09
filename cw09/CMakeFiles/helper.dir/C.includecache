@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan/Desktop/IlczukJan/cw09/helper.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+unistd.h
+-
+signal.h
+-
+assert.h
+-
+errno.h
+-
+sys/time.h
+-
+helper.h
+/home/jan/Desktop/IlczukJan/cw09/helper.h
+
+/home/jan/Desktop/IlczukJan/cw09/helper.h
+

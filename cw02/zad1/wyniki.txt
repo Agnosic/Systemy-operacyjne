@@ -1,0 +1,474 @@
+------- size 1000 --------------------------------------------------------------- 
+
+./main generate file1 1000 1 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 1000 1 lib 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 1000 1 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 1000 1 lib 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.010000
+
+./main sort filesys 1000 1 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+
+./main generate file1 1000 4 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 1000 4 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 1000 4 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 1000 4 lib 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.010000
+
+./main sort filesys 1000 4 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+
+./main generate file1 1000 512 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 1000 512 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 1000 512 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 1000 512 lib 
+Real time:  	0.070000
+User time:  	0.020000
+System time:	0.040000
+
+./main sort filesys 1000 512 sys 
+Real time:  	0.120000
+User time:  	0.020000
+System time:	0.090000
+
+
+./main generate file1 1000 1024 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 1000 1024 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 1000 1024 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 1000 1024 lib 
+Real time:  	0.270000
+User time:  	0.100000
+System time:	0.160000
+
+./main sort filesys 1000 1024 sys 
+Real time:  	0.450000
+User time:  	0.110000
+System time:	0.320000
+
+
+./main generate file1 1000 4096 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.020000
+
+./main copy file1 filelib 1000 4096 lib 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 1000 4096 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 1000 4096 lib 
+Real time:  	2.020000
+User time:  	0.640000
+System time:	1.380000
+
+./main sort filesys 1000 4096 sys 
+Real time:  	3.080000
+User time:  	0.700000
+System time:	2.370000
+
+
+./main generate file1 1000 8196 
+Real time:  	0.050000
+User time:  	0.000000
+System time:	0.040000
+
+./main copy file1 filelib 1000 8196 lib 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.010000
+
+./main copy file1 filesys 1000 8196 sys 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.010000
+
+./main sort filelib 1000 8196 lib 
+Real time:  	4.430000
+User time:  	1.160000
+System time:	3.260000
+
+./main sort filesys 1000 8196 sys 
+Real time:  	6.520000
+User time:  	1.560000
+System time:	4.950000
+
+
+------- size 2000 --------------------------------------------------------------- 
+
+./main generate file1 2000 1 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 2000 1 lib 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 2000 1 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 2000 1 lib 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.010000
+
+./main sort filesys 2000 1 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+
+./main generate file1 2000 4 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 2000 4 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 2000 4 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 2000 4 lib 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.010000
+
+./main sort filesys 2000 4 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+
+./main generate file1 2000 512 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 2000 512 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 2000 512 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 2000 512 lib 
+Real time:  	0.100000
+User time:  	0.020000
+System time:	0.080000
+
+./main sort filesys 2000 512 sys 
+Real time:  	0.130000
+User time:  	0.020000
+System time:	0.100000
+
+
+./main generate file1 2000 1024 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 2000 1024 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 2000 1024 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 2000 1024 lib 
+Real time:  	0.380000
+User time:  	0.110000
+System time:	0.260000
+
+./main sort filesys 2000 1024 sys 
+Real time:  	0.450000
+User time:  	0.100000
+System time:	0.340000
+
+
+./main generate file1 2000 4096 
+Real time:  	0.040000
+User time:  	0.000000
+System time:	0.030000
+
+./main copy file1 filelib 2000 4096 lib 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.010000
+
+./main copy file1 filesys 2000 4096 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.010000
+
+./main sort filelib 2000 4096 lib 
+Real time:  	4.950000
+User time:  	1.240000
+System time:	3.700000
+
+./main sort filesys 2000 4096 sys 
+Real time:  	5.380000
+User time:  	1.230000
+System time:	4.130000
+
+
+./main generate file1 2000 8196 
+Real time:  	0.080000
+User time:  	0.000000
+System time:	0.080000
+
+./main copy file1 filelib 2000 8196 lib 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.020000
+
+./main copy file1 filesys 2000 8196 sys 
+Real time:  	0.030000
+User time:  	0.000000
+System time:	0.020000
+
+./main sort filelib 2000 8196 lib 
+Real time:  	11.930000
+User time:  	2.720000
+System time:	9.200000
+
+./main sort filesys 2000 8196 sys 
+Real time:  	12.230000
+User time:  	2.750000
+System time:	9.470000
+
+
+------- size 3000 --------------------------------------------------------------- 
+
+./main generate file1 3000 1 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 3000 1 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 3000 1 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 3000 1 lib 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.020000
+
+./main sort filesys 3000 1 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.010000
+
+
+./main generate file1 3000 4 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 3000 4 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 3000 4 sys 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 3000 4 lib 
+Real time:  	0.030000
+User time:  	0.010000
+System time:	0.010000
+
+./main sort filesys 3000 4 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+
+./main generate file1 3000 512 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filelib 3000 512 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 3000 512 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 3000 512 lib 
+Real time:  	0.140000
+User time:  	0.050000
+System time:	0.080000
+
+./main sort filesys 3000 512 sys 
+Real time:  	0.130000
+User time:  	0.010000
+System time:	0.100000
+
+
+./main generate file1 3000 1024 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.010000
+
+./main copy file1 filelib 3000 1024 lib 
+Real time:  	0.000000
+User time:  	0.000000
+System time:	0.000000
+
+./main copy file1 filesys 3000 1024 sys 
+Real time:  	0.010000
+User time:  	0.000000
+System time:	0.000000
+
+./main sort filelib 3000 1024 lib 
+Real time:  	0.510000
+User time:  	0.100000
+System time:	0.400000
+
+./main sort filesys 3000 1024 sys 
+Real time:  	0.450000
+User time:  	0.070000
+System time:	0.380000
+
+
+./main generate file1 3000 4096 
+Real time:  	0.050000
+User time:  	0.000000
+System time:	0.050000
+
+./main copy file1 filelib 3000 4096 lib 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.010000
+
+./main copy file1 filesys 3000 4096 sys 
+Real time:  	0.020000
+User time:  	0.000000
+System time:	0.010000
+
+./main sort filelib 3000 4096 lib 
+Real time:  	7.970000
+User time:  	1.620000
+System time:	6.330000
+
+./main sort filesys 3000 4096 sys 
+Real time:  	6.600000
+User time:  	1.550000
+System time:	5.040000
+
+
+./main generate file1 3000 8196 
+Real time:  	0.130000
+User time:  	0.000000
+System time:	0.120000
+
+./main copy file1 filelib 3000 8196 lib 
+Real time:  	0.030000
+User time:  	0.000000
+System time:	0.030000
+
+./main copy file1 filesys 3000 8196 sys 
+Real time:  	0.570000
+User time:  	0.000000
+System time:	0.040000
+
+./main sort filelib 3000 8196 lib 
+Real time:  	21.560000
+User time:  	4.450000
+System time:	17.000000
+
+./main sort filesys 3000 8196 sys 
+Real time:  	17.200000
+User time:  	3.770000
+System time:	13.430000
+
+

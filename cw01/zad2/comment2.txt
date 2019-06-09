@@ -1,0 +1,13 @@
+'find' zuzywa najwiecej czasu. Ma tylko real time w reporcie.
+Wyniki sa podobne w shared library i static library.
+Alokacja i usuwanie uzywa zazwyczaj 2 razy mniej czasu 'user' niz 'systemowego'
+
+make - aby zbudpwac
+make test - aby wygenerowac report2.txt
+
+przykadowe komendy:
+./main_st 1 -a "/etc/issue" 100000
+./main_st 10 -s "/usr/" "*" tmp.txt -d 2 
+./main_sh 10 -s "/usr/" "*" tmp.txt -d 2
+
+

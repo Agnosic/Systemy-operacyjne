@@ -1,0 +1,3 @@
+W SIGQUEUE zazwyczaj dostawalo sie spowrotem 1/10 sygnalow na poczatku. Im wiecej sygnalow tym gorzej. Przy 100000 dostawalo sie tylko 5000 
+W KILL dostawalo sie spowrotem 1/5 sygnalow czyli lepiej. I mozna bylo wiecej sygnalow wyslac niz 48000.
+W SIGRT najlepiej sie dostawalo, zwlaszcza na poczatku, ale przy duzej ilosci syngalow program "zle" dzialaly.

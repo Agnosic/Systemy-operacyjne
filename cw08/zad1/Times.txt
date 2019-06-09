@@ -1,0 +1,198 @@
+  
+block ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+1 threads
+filters/4 size of filter
+thread ID: 1	time: 79202us
+total process   time: 79759us
+   
+2 threads
+filters/4 size of filter
+thread ID: 1	time: 39903us
+thread ID: 2	time: 40065us
+total process   time: 40166us
+   
+4 threads
+filters/4 size of filter
+thread ID: 1	time: 21110us
+thread ID: 2	time: 25108us
+thread ID: 3	time: 20332us
+thread ID: 4	time: 25013us
+total process   time: 25234us
+   
+8 threads
+filters/4 size of filter
+thread ID: 1	time: 12999us
+thread ID: 2	time: 13039us
+thread ID: 3	time: 13059us
+thread ID: 4	time: 12892us
+thread ID: 5	time: 12900us
+thread ID: 6	time: 13152us
+thread ID: 7	time: 11404us
+thread ID: 8	time: 12138us
+total process   time: 16099us
+  
+interleaved ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+1 threads
+filters/4 size of filter
+thread ID: 1	time: 79282us
+total process   time: 79649us
+   
+2 threads
+filters/4 size of filter
+thread ID: 1	time: 39379us
+thread ID: 2	time: 39905us
+total process   time: 40130us
+   
+4 threads
+filters/4 size of filter
+thread ID: 1	time: 19383us
+thread ID: 2	time: 23591us
+thread ID: 3	time: 19791us
+thread ID: 4	time: 23714us
+total process   time: 23883us
+   
+8 threads
+filters/4 size of filter
+thread ID: 1	time: 15116us
+thread ID: 2	time: 14907us
+thread ID: 3	time: 14923us
+thread ID: 4	time: 15160us
+thread ID: 5	time: 15011us
+thread ID: 6	time: 14902us
+thread ID: 7	time: 12541us
+thread ID: 8	time: 11461us
+total process   time: 22406us
+  
+block ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+1 threads
+filters/30 size of filter
+thread ID: 1	time: 3931551us
+total process   time: 3931820us
+   
+2 threads
+filters/30 size of filter
+thread ID: 1	time: 1974881us
+thread ID: 2	time: 1971074us
+total process   time: 1975009us
+   
+4 threads
+filters/30 size of filter
+thread ID: 1	time: 993783us
+thread ID: 2	time: 1005968us
+thread ID: 3	time: 991130us
+thread ID: 4	time: 1006933us
+total process   time: 1007147us
+   
+8 threads
+filters/30 size of filter
+thread ID: 1	time: 602940us
+thread ID: 2	time: 603296us
+thread ID: 3	time: 595679us
+thread ID: 4	time: 595753us
+thread ID: 5	time: 605076us
+thread ID: 6	time: 595646us
+thread ID: 7	time: 604805us
+thread ID: 8	time: 609878us
+total process   time: 611071us
+  
+interleaved ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+1 threads
+filters/30 size of filter
+thread ID: 1	time: 3789819us
+total process   time: 3790088us
+   
+2 threads
+filters/30 size of filter
+thread ID: 1	time: 1951832us
+thread ID: 2	time: 1948262us
+total process   time: 1951981us
+   
+4 threads
+filters/30 size of filter
+thread ID: 1	time: 1015403us
+thread ID: 2	time: 1029059us
+thread ID: 3	time: 1009349us
+thread ID: 4	time: 1028750us
+total process   time: 1029218us
+   
+8 threads
+filters/30 size of filter
+thread ID: 1	time: 635017us
+thread ID: 2	time: 647449us
+thread ID: 3	time: 619077us
+thread ID: 4	time: 676943us
+thread ID: 5	time: 636734us
+thread ID: 6	time: 667718us
+thread ID: 7	time: 632544us
+thread ID: 8	time: 618633us
+total process   time: 677156us
+  
+block ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+1 threads
+filters/65 size of filter
+thread ID: 1	time: 17565380us
+total process   time: 17565671us
+   
+2 threads
+filters/65 size of filter
+thread ID: 1	time: 9054837us
+thread ID: 2	time: 9056926us
+total process   time: 9057056us
+   
+4 threads
+filters/65 size of filter
+thread ID: 1	time: 4631407us
+thread ID: 2	time: 4651952us
+thread ID: 3	time: 4634131us
+thread ID: 4	time: 4649849us
+total process   time: 4652099us
+   
+8 threads
+filters/65 size of filter
+thread ID: 1	time: 2894420us
+thread ID: 2	time: 2842686us
+thread ID: 3	time: 2846901us
+thread ID: 4	time: 2847644us
+thread ID: 5	time: 2848281us
+thread ID: 6	time: 2830020us
+thread ID: 7	time: 2831387us
+thread ID: 8	time: 2907566us
+total process   time: 2909424us
+  
+interleaved ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+1 threads
+filters/65 size of filter
+thread ID: 1	time: 17541931us
+total process   time: 17542224us
+   
+2 threads
+filters/65 size of filter
+thread ID: 1	time: 9027172us
+thread ID: 2	time: 9028261us
+total process   time: 9028404us
+   
+4 threads
+filters/65 size of filter
+thread ID: 1	time: 4629406us
+thread ID: 2	time: 4642013us
+thread ID: 3	time: 4627538us
+thread ID: 4	time: 4648642us
+total process   time: 4648792us
+   
+8 threads
+filters/65 size of filter
+thread ID: 1	time: 2846527us
+thread ID: 2	time: 2856688us
+thread ID: 3	time: 2869120us
+thread ID: 4	time: 2859836us
+thread ID: 5	time: 2832897us
+thread ID: 6	time: 2881998us
+thread ID: 7	time: 2842364us
+thread ID: 8	time: 2907350us
+total process   time: 2911320us

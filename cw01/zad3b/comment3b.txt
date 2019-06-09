@@ -1,0 +1,11 @@
+w dodawanie i usuwanie na przemian w -O0 i -O3 czas jest wiekszy w system, a mniejsze od user w porowaniu do -Os. Czasy programow sa podobne w kazdej poziomie optymalizacji. Wedug skryptu -Os optymalizuje rozmiar. -O0 ma mniejszy czas kompilacji.
+
+
+make - aby zbudpwac
+make test - aby wygenerowac report2.txt
+
+przykadowe komendy:
+./main_st 1 -a "/etc/issue" 100000
+./main_st 10 -s "/usr/" "*" tmp.txt -d 2 
+./main_sh 10 -s "/usr/" "*" tmp.txt -d 2
+./main_dy 1 -a "/etc/issue" 100000

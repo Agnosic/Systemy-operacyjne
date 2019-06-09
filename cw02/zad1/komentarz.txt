@@ -1,0 +1,9 @@
+Wyniki wyszly, ze biblioteka C jest szybsza przy malych plikach, a  systemowa jest szybsza przy wiekszych.
+Wynik mogl taki wyjsc tez przez przypadek.
+
+Zeby stworzyc: make
+test: make test
+przykladowe komendy
+./main generate file 100 512
+./main copy file file2 100 512 sys
+./main sort file 100 512 lib

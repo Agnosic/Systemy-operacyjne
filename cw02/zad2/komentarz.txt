@@ -1,0 +1,8 @@
+make zaby stworzyc
+
+komendy np:
+
+./main "/" "<" "2020-12-12 11:12:56" "1"    uzywa opendir itp
+./main "/" "<" "2020-12-12 11:12:56" "2"     uzywa nftw
+
+make clean aby oczyscic
